@@ -6,13 +6,13 @@
     <head>
         {% include _head.html %}
     </head>
-    
+
     <body class="post-index">
-        
+
         {% include _browser-upgrade.html %}
-        
+
         {% include _navigation.html %}
-        
+
         {% if page.image.feature %}
         <div class="image-wrap">
             <img src=
@@ -27,7 +27,7 @@
                 {% endif %}
                 </div><!-- /.image-wrap -->
         {% endif %}
-        
+
         <div id="main" role="main">
             <div class="article-author-side">
                 {% include _author-bio.html %}
@@ -40,14 +40,14 @@
                 {% endfor %}
             </div><!-- /#index -->
         </div><!-- /#main -->
-        
+
         <div class="footer-wrap">
             <footer>
                 {% include _footer.html %}
             </footer>
         </div><!-- /.footer-wrap -->
-        
+
         {% include _scripts.html %}
-        
+
     </body>
 </html>

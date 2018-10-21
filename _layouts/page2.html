@@ -38,17 +38,6 @@
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
       {{ content }}
-
-      <div id="index">
-          <h1>Recent posts</h1>
-          {% for post in site.posts %}
-              <h3><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
-              <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-          {% endfor %}
-      </div><!-- /#index -->
-
-     <a class="twitter-timeline" href="https://twitter.com/Anders_Schmidt">Tweets by Anders_Schmidt</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
