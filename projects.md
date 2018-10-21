@@ -23,6 +23,8 @@ RatChair a strategy for displacing big objects by attaching relatively small vib
 
 <br />
 
+<br />
+
 <p style="text-align: center;">
 <b>UMorph: Self-Change Tracker to Reflect Yourself to the Future and Past</b>
 </p> 
@@ -49,6 +51,8 @@ images over time.
 
 <br />
 
+<br />
+
 <p style="text-align: center;">
 <b>Luna, Pocket Universe</b>
 </p>
@@ -71,6 +75,8 @@ Creator also can exhale her spirit into Luna to make self-sustaining universe. I
 is recognized my microphone amplifier and one pattern among previously prepared never-dying
 patterns will be used. Breathing is accompanied by animation with expanding circles.
 Luna is a form of everyday jewelry with unlimited amount of species and lives.
+
+<br />
 
 <br />
 
