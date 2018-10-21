@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: hey there!
+title: hello world
 description: Tanya's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
