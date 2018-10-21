@@ -41,6 +41,8 @@ kramdown:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
+minimal_mistakes_skin: dark
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
