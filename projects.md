@@ -13,19 +13,9 @@ comments: false
 <b>Ratchair: Furniture that Learns to Move Itself</b>
 </p> 
 
-<div style="text-align: center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bbBSVTTapp0
-" target="_blank"><img src="http://img.youtube.com/vi/bbBSVTTapp0/0.jpg" 
-alt="" width="320" height="240" border="10" /></a>
-</div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bbBSVTTapp0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-<div style="text-align: center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_Cn_ajBpr3A
-" target="_blank"><img src="http://img.youtube.com/vi/_Cn_ajBpr3A/0.jpg" 
-alt="" width="320" height="240" border="10" /></a>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Cn_ajBpr3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 RatChair a strategy for displacing big objects by attaching relatively small vibration sources. After learning how several random bursts of vibration affect its pose, an optimization algorithm discovers the optimal sequence of vibration patterns required to (slowly but surely) move the object to a specified position.
 
@@ -59,11 +49,7 @@ images over time.
 <b>Luna, Pocket Universe</b>
 </p>
 
-<div style="text-align: center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ySlNFAfA5Kg
-" target="_blank"><img src="http://img.youtube.com/vi/ySlNFAfA5Kg/0.jpg" 
-alt="" width="320" height="240" border="10" /></a>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySlNFAfA5Kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Each pixel of 8x8 dot matrix lives by rules of Conway’s game of life, so-called cellular automaton.
 In Conway’s model different patterns are like species, they are developed in response to evolution.
@@ -85,11 +71,8 @@ Luna is a form of everyday jewelry with unlimited amount of species and lives.
 <b>Roll the Eyeball</b>
 </p>
 
-<div style="text-align: center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=2GEP5hpyq-4
-" target="_blank"><img src="http://img.youtube.com/vi/2GEP5hpyq-4/0.jpg" 
-alt="" width="320" height="240" border="10" /></a>
-</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2GEP5hpyq-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The  device  is  called  “Eyeball”,  it  extension  of  your  natural  eye,  since  literally  it  replaces  one  of  your  eyes  with  itself.
 
