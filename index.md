@@ -1,19 +1,14 @@
 ---
 layout: home2
 title: hey there!
-description: 
+description: Tanya's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
-and part of the advisory board of <a href="http://www.vilynx.com/index.html" target="_blank">Vilynx</a>.
+I am interested in developing and analyzing new learning algorithms using techniques from optimization and statistics, as well as obtaining the control models in the approximate dynamical system environments.  
 
 <br />
-Previously, I worked at <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ</a>
-and <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research</a>,
-and I collaborated with <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. J. Malik</a>'s vision group 
-and with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.
+I am a Master's student at  <a href="https://ee.kaist.ac.kr/?language=en" target="_blank">KAIST School of Electrical Engineering</a>. I am a member of <a href="http://brain.kaist.ac.kr/about_us.html" target="_blank">Brain Reverse Engineering and Imaging Laboratory</a>, advised by <a href="https://scholar.google.com/citations?user=nd-UgBYAAAAJ&hl=en&oi=ao" target="_blank">Prof. Dae-Shik Kim</a>.
 
 <br />
-I am a mathematician, engineer, and PhD in computer vision by <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.
-
+Previously, I received a Bachelors in the <a href="http://id.kaist.ac.kr/index.php?document_srl=21142&mid=rnews" target="_blank">Department of Industrial Design</a> (College of Information Science and Technology) at KAIST with the concentration in Human Computer Interaction, where I worked on several research projects with [Prof. Daniel Saakes](http://mid.kaist.ac.kr/people/).
