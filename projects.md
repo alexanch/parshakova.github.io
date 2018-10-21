@@ -17,18 +17,19 @@ comments: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Cn_ajBpr3A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<br />
+
 RatChair a strategy for displacing big objects by attaching relatively small vibration sources. After learning how several random bursts of vibration affect its pose, an optimization algorithm discovers the optimal sequence of vibration patterns required to (slowly but surely) move the object to a specified position.
+
+<br />
 
 <p style="text-align: center;">
 <b>UMorph: Self-Change Tracker to Reflect Yourself to the Future and Past</b>
 </p> 
 
-<div style="text-align: center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fpCcpROzxiE
-" target="_blank"><img src="http://img.youtube.com/vi/fpCcpROzxiE/0.jpg" 
-alt="" width="320" height="240" border="10" /></a>
-</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpCcpROzxiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br />
 Taking photos has become not only a daily but also an
 automatic activity. But how do we use all these
 pictures? Storage and retrieval are certainly not as well
@@ -45,11 +46,15 @@ physicalization with a natural interface, as well as an
 unobtrusive way for systematic capturing of facial
 images over time.
 
+<br />
+
 <p style="text-align: center;">
 <b>Luna, Pocket Universe</b>
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySlNFAfA5Kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br />
 
 Each pixel of 8x8 dot matrix lives by rules of Conway’s game of life, so-called cellular automaton.
 In Conway’s model different patterns are like species, they are developed in response to evolution.
@@ -66,13 +71,16 @@ is recognized my microphone amplifier and one pattern among previously prepared 
 patterns will be used. Breathing is accompanied by animation with expanding circles.
 Luna is a form of everyday jewelry with unlimited amount of species and lives.
 
+<br />
 
 <p style="text-align: center;">
 <b>Roll the Eyeball</b>
 </p>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GEP5hpyq-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="382" height="315" src="https://www.youtube.com/embed/2GEP5hpyq-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<br />
 
 The  device  is  called  “Eyeball”,  it  extension  of  your  natural  eye,  since  literally  it  replaces  one  of  your  eyes  with  itself.
 
