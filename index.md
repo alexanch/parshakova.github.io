@@ -1,10 +1,8 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Jordi Pont-Tuset's website"
+title: hey there!
+description: 
 tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: trees.jpg
 ---
 
 I am a research scientist at <a href="https://research.google.com" target="_blank">Google Research</a> 
