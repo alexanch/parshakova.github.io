@@ -26,6 +26,7 @@ These techniques demonstrate high performance on existing datasets, however, the
 To address this limitation, we propose a model that learns multiple interpretations of a given question. 
 This diversity is ensured by our "interpretation policy" module which automatically adapts the parameters of a question answering model with respect to a discrete latent variable. This variable follows the distribution of interpretations learned by the interpretation policy through a semi-supervised variational inference framework.
 
+<br />
 
 
 ## Undergraduate Researcher 
