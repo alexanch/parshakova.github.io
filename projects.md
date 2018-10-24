@@ -6,8 +6,29 @@ tags: [projects]
 comments: false
 ---
 
+## Graduate Researcher 
 
-### Undergraduate Researcher 
+<p style="text-align: center;">
+<b>Latent Question Interpretation Through Parameter Adaptation</b>
+</p>
+
+<p align="center">
+<img width=790 src="images/apip.jpg"><br>
+<i><sub>Structure overview of integrated APSN module with DrQA. In this illustration number of interpretations is 2 and a sampled interpretation is 1.</sub></i><br>
+</p>
+
+<p style="text-align: center;">
+<a href="https://github.com/parshakova/APIP">[Code]</a>
+</p>
+
+Most artificial neural network models for question-answering rely on complex attention mechanisms.
+These techniques demonstrate high performance on existing datasets, however, they are limited in their ability to capture natural language variability, and to generate diverse relevant answers. 
+To address this limitation, we propose a model that learns multiple interpretations of a given question. 
+This diversity is ensured by our "interpretation policy" module which automatically adapts the parameters of a question answering model with respect to a discrete latent variable. This variable follows the distribution of interpretations learned by the interpretation policy through a semi-supervised variational inference framework.
+
+
+
+## Undergraduate Researcher 
 
 <p style="text-align: center;">
 <b>Ratchair: Furniture that Learns to Move Itself</b>
