@@ -13,7 +13,7 @@ comments: false
 </p>
 
 
-<img src="images/apip.jpg" alt="hi" class="inline"/>
+<img src="/images/apip.jpg" alt="hi" class="inline"/>
 
 
 <p style="text-align: center;">
