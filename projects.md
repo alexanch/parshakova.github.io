@@ -13,8 +13,7 @@ comments: false
 </p>
 
 <p align="center">
-<img width=790 src="images/apip.jpg"><br>
-<i><sub>Structure overview of integrated APSN module with DrQA. In this illustration number of interpretations is 2 and a sampled interpretation is 1.</sub></i><br>
+<img width=790 src="images/apip.jpg" alt="hi" class="inline"/>
 </p>
 
 <p style="text-align: center;">
