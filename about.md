@@ -1,11 +1,11 @@
 ---
 layout: home2
-title: hello world
+title: hey there!
 description: Tanya's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-I am interested in developing and analyzing new learning algorithms using techniques from optimization and statistics, as well as obtaining the control models in the approximate dynamical system environments.  
+My primary research objective is to develop novel learning algorithms using techniques from optimization and statistics, to bring theoretical guarantees about the convergence of iterative methods and the quality of the produced solutions, and to obtain the control models in the approximate dynamical system environments.  
 
 <br />
 I am now Master's student at  <a href="https://ee.kaist.ac.kr/?language=en" target="_blank">KAIST School of Electrical Engineering</a>. I am a member of <a href="http://brain.kaist.ac.kr/about_us.html" target="_blank">Brain Reverse Engineering and Imaging Laboratory</a>, advised by <a href="https://scholar.google.com/citations?user=nd-UgBYAAAAJ&hl=en&oi=ao" target="_blank">Prof. Dae-Shik Kim</a>.
