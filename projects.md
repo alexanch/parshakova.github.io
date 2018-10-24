@@ -12,9 +12,9 @@ comments: false
 <b>Latent Question Interpretation Through Parameter Adaptation</b>
 </p>
 
-<p align="center">
+
 <img src="images/apip.jpg" alt="hi" class="inline"/>
-</p>
+
 
 <p style="text-align: center;">
 <a href="https://github.com/parshakova/APIP">[Code]</a>
