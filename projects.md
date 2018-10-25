@@ -41,7 +41,22 @@ This diversity is ensured by our "interpretation policy" module which automatica
 
 <br />
 
-RatChair a strategy for displacing big objects by attaching relatively small vibration sources. After learning how several random bursts of vibration affect its pose, an optimization algorithm discovers the optimal sequence of vibration patterns required to (slowly but surely) move the object to a specified position.
+Displacements of large objects induced by vibration are
+a common occurrence, but the motion is generally
+unpredictable. Think for instance of an unbalanced
+front-loading washing machine. For controlled
+movement, wheels or legs are usually preferred.
+<br><br>
+In this work, we explore a strategy for moving
+everyday objects by introducing or harvesting random
+external vibration rather than using a mechanical
+system with wheels. We designed vibration modules
+that can be easily attached to furniture and objects.
+After learning how several random bursts of vibration
+affect its pose, an optimization algorithm discovers the
+optimal sequence of vibration patterns required to
+(slowly but surely) move the object to a specified
+position.
 
 <br />
 
@@ -84,19 +99,19 @@ images over time.
 <br />
 
 Each pixel of 8x8 dot matrix lives by rules of Conway’s game of life, so-called cellular automaton.
-In Conway’s model different patterns are like species, they are developed in response to evolution.
-Therefore Luna simulates biological system. So it is real universes with organisms that have own
-evolution. Device is called Luna, because this universe is going to be with wearer just as Moon with
-Earth, reminding user that he is not alone having alive satellite nearby.
+In Conway’s model, different patterns are like species, they are developed in response to evolution.
+Therefore Luna simulates the biological system. So it is real universes with organisms that have own
+evolution. The device is called Luna, because this universe is going to be with a wearer just as Moon with
+Earth, reminding a user that s/he is not alone having alive satellite nearby.
 <br><br>
-Luna is a world of living organisms. To provoke Big Bang user needs to shake sphere and new
-world will be born in random manner. Big Bang is accompanied by explosion animation. Device has tilt
-ball switch to sense shake.
+Luna is a world of living organisms. To provoke Big Bang user needs to shake sphere and a new
+world will be born in a random manner. Big Bang is accompanied by explosion animation. The device has a tilt
+ball switch for recognizing shakes.
 <br><br>
-Creator also can exhale her spirit into Luna to make self-sustaining universe. In this case blowing
-is recognized my microphone amplifier and one pattern among previously prepared never-dying
-patterns will be used. Breathing is accompanied by animation with expanding circles.
-Luna is a form of everyday jewelry with unlimited amount of species and lives.
+A creator can also exhale her spirit into Luna to make the self-sustaining universe. In this case, blowing
+is recognized my a microphone amplifier and one pattern among previously prepared never-dying
+patterns will be displayed. Breathing is accompanied by an animation of expanding circles.
+Luna is a form of everyday jewelry with an unlimited amount of species and lives.
 
 <br />
 
@@ -111,10 +126,10 @@ Luna is a form of everyday jewelry with unlimited amount of species and lives.
 
 <br />
 
-The  device  is  called  “Eyeball”,  it  extension  of  your  natural  eye,  since  literally  it  replaces  one  of  your  eyes  with  itself.
+The device is called  “Eyeball”,  it is an extension of your natural eye,  since literally, it replaces your eyes with itself.
 <br><br>
-The  idea  is  in  letting  yourself  explore  secret  places  which  cannot  be  entered  with  entire  body.  Additional  feature  of  the  Eyeball  is  that  it  movesby  rolling,  so  the  world  it  streams  is  rolling  as  well,  which  gives  rich  disorienting  and  mismatching  effect,  so  in  order  to  understand  streamed  data  user  has  to  compensatemismatching  informationby  thinking  and  other  senses.  Which  is  a  nice  exercise  for  your  brains.
+The idea is in letting yourself explore secret places which cannot be  entered with an entire body.  An additional feature of the Eyeball is that it moves by rolling, such that a world it streams is rolling as well, which gives rich disorienting and mismatching effect. Hence, in order to understand streamed data user has to compensate a mismatching information by thinking and by other senses.  This is a nice exercise for your brains.
 <br><br>
-The  game  is  called  “Perception”.  User  has  to  observe  a  hidden  place  and  find  a  secret  message.  Which  is  “Hate  is  love”,  this  is  because  word  “hate”  written  on  wall  but  in  reflection  it  turns  to  “love”,  which  is  exactly  what  happens  when  you  look  on  things  under  new  angles,  or  their  reflectionsetc.  This  game  basically  is  saying,  that  if  you  change  the  way  you  look  at  things,  the  things  you  look  at  change.
+In the game “Perception”, a user has to observe a hidden place and find a secret message.  In our game, this message is “Hate is love” because of a word  “hate” that is written on the wall, and which turns into “love” in reflection. This is exactly what happens when you look at things under new angles or their reflections.  The purpose of the game is to make a person realize that if s/he changes the way to look at things,  the things s/he looks at will change.
 <br><br>
-“Roll  the  Eyeball”  is composed of several  parts:  Eyeball,  device  to  control  locomotion  of  ball  placedin  one  of  user’s  hands  (smartphone  with  Android  app  running  on  it),  device  which  shows  streamed  video  fixed  in  front  of  one  of  user’s  eyes  like  a  pirate  band  (smartphone  with  Android  app  running  on  it  behind  biconvex  lens),  and  secret  place  itself,  which  is  a  1x0.8x1.5m  box.
+“Roll  the  Eyeball”  is composed of several  parts:  Eyeball,  device  to  control  a locomotion  of  ball  placed in  one  of  user’s  hands  (smartphone  with  Android  app  running  on  it),  device  which  shows  streamed  video  fixed  in  front  of  one  of the user’s  eyes  like  a  pirate  band  (smartphone  with  Android  app  running  on  it  behind  biconvex  lens),  and  a secret  place  itself (1m x 0.8m x 1.5m  box).
