@@ -28,6 +28,20 @@ This diversity is ensured by our "interpretation policy" module which automatica
 
 <br />
 
+<p style="text-align: center;">
+<b>Playing Angry Birds: Deep Deterministic Policy Gradient with Attention-based Long Short-Term Memory</b>
+</p>
+
+<br /> 
+
+<p style="text-align: center;">
+<a href="https://github.com/parshakova/AngryBirds_RL">[Code]</a>
+</p>
+
+‘Angry Birds’ is a game with a continuous action and state space. The policy gradient methods proved their effectiveness in a number of various domains. However, for a stochastic policy, the variance of a gradient estimate goes to infinity as policy becomes more and more deterministic.
+Therefore we develop a sequential decision-making agent for solving ‘Angry Birds’ using Deep Deterministic Policy Gradient (DDPG) with Attention-based Long Short-Term Memory (LSTM) for state encoding. In other words, we explore a model with a deterministic policy using an actor-critic algorithm for learning off policy with a stochastic behavior policy.
+
+<br />
 
 ## Undergraduate Researcher 
 
