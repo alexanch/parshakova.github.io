@@ -29,6 +29,26 @@ This diversity is ensured by our "interpretation policy" module which automatica
 <br />
 
 <p style="text-align: center;">
+<b>Neural Opinion Generator</b>
+</p>
+
+<br /> 
+
+<img src="/images/opnet.jpg" alt="hi" class="inline"/>
+
+<p style="text-align: center;">
+<a href="https://github.com/parshakova/neural_opinion_generator">[Code]</a>
+</p>
+
+“Opinion Generator” is a model, which aims to capture a global ‘pathway’ of an opinion as
+a response to other statement. It consists of CNN encoders, that operate on character level,
+and whose outputs are given to recurrent block to combine sentences over time, so that the
+produced context representations are used to condition the CNN decoder. Self-critical policy gradient is used to maximize the reward expectation of our model. To train our model we create a dataset using the "Change My View" Reddit forum that consists of opposing views. 
+It is an appropriate dataset for training the Opinion Generator since it contains discusssions on various topics with the main goal to understand opposing viewpoints.
+
+<br />
+
+<p style="text-align: center;">
 <b>Playing Angry Birds: Deep Deterministic Policy Gradient with Attention-based Long Short-Term Memory</b>
 </p>
 
