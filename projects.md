@@ -34,6 +34,8 @@ This diversity is ensured by our "interpretation policy" module which automatica
 
 <br /> 
 
+<img src="/images/angryb_model.jpg" alt="hi" class="inline"/>
+
 <p style="text-align: center;">
 <a href="https://github.com/parshakova/AngryBirds_RL">[Code]</a>
 </p>
