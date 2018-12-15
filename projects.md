@@ -42,11 +42,7 @@ This diversity is ensured by our "interpretation policy" module which automatica
 <a href="https://github.com/parshakova/neural_opinion_generator">[Code]</a>
 </p>
 
-“Opinion Generator” is a model, which aims to capture a global ‘pathway’ of an opinion as
-a response to other statement. It consists of CNN encoders, that operate on character level,
-and whose outputs are given to recurrent block to combine sentences over time, so that the
-produced context representations are used to condition the CNN decoder. Self-critical policy gradient is used to maximize the reward expectation of our model. To train our model we create a dataset using the "Change My View" Reddit forum that consists of opposing views. 
-It is an appropriate dataset for training the Opinion Generator since it contains discusssions on various topics with the main goal to understand opposing viewpoints.
+“Opinion Generator” is a model, which aims to capture a global ‘pathway’ of an opinion as a response to a given statement. It consists of CNN encoders, that operate on character level, and whose outputs are given to recurrent block to combine sentences over time so that the produced context representations are used to condition the CNN decoder for character level generation (or LSTM for word level). Self-critical policy gradient is used to maximize the reward expectation of our model. To train our model we create a dataset using the “Change My View” Reddit forum that consists of opposing views. It is an appropriate dataset for training the Opinion Generator since it contains discussions on various topics with the main goal to understand opposing viewpoints.
 
 <br />
 
@@ -64,8 +60,8 @@ It is an appropriate dataset for training the Opinion Generator since it contain
 <a href="https://github.com/parshakova/AngryBirds_RL">[Code]</a>
 </p>
 
-‘Angry Birds’ is a game with a continuous action and state space. The policy gradient methods proved their effectiveness in a number of various domains. However, for a stochastic policy, the variance of a gradient estimate goes to infinity as policy becomes more and more deterministic.
-Therefore we develop a sequential decision-making agent for solving ‘Angry Birds’ using Deep Deterministic Policy Gradient (DDPG) with Attention-based Long Short-Term Memory (LSTM) for state encoding. In other words, we explore a model with a deterministic policy using an actor-critic algorithm for learning off policy with a stochastic behavior policy.
+"Angry Birds" is a game with a continuous action and state space. The policy gradient methods proved their effectiveness in a number of various domains. However, for a stochastic policy, the variance of a gradient estimate goes to infinity as policy becomes more and more deterministic.
+Therefore, we develop a sequential decision-making agent for solving ‘Angry Birds’ using Deep Deterministic Policy Gradient (DDPG) with Attention-based Long Short-Term Memory (LSTM) for state encoding. In other words, we explore a model with a deterministic policy using an actor-critic algorithm for learning off policy with a stochastic behavior policy.
 
 <br />
 
