@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 My primary research objective is to develop novel learning algorithms using techniques from optimization and statistics, to bring theoretical guarantees about the convergence of iterative methods and the quality of the produced solutions, and to obtain the control models in the approximate dynamical system environments.  
 
 <br />
-I am now a research engineering intern at <a href="https://europe.naverlabs.com/about/" target="_blank">Naver Labs Europe</a> and am lucky to collaborate with
+I am now a research intern at <a href="https://europe.naverlabs.com/about/" target="_blank">Naver Labs Europe</a> and am lucky to collaborate with
 <a href="https://scholar.google.fr/citations?user=bTXN9_0AAAAJ&hl=en&oi=ao" target="_blank">Dr. Marc Dymetman</a>.
 
 <br />
