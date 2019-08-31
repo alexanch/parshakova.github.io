@@ -7,10 +7,9 @@ url:              //parshakova.github.io
 owner:
   name:           Tetiana Parshakova
   avatar:         avatar.jpg
-  bio:            Research Intern at Naver Labs Europe
+  bio:            P.h.D. at Stanford
   email:          ten10@kaist.ac.kr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  linkedin: tanya-parshakova
   google_scholar: lCr4ep8AAAAJ
   github: parshakova
 # Analytics and webmaster tools stuff goes here
@@ -30,7 +29,7 @@ links:
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Korea/Seoul
+timezone:    USA/California
 future:      true
 #pygments:    true
 highlighter: rouge
