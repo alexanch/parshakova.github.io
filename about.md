@@ -9,7 +9,7 @@ My primary research objective is to develop novel learning algorithms using tech
 
 
 <br />
-I am now pursuing a P.h.D. in Computational & Mathematical Engineering at Stanford University.
+I am now pursuing a Ph.D. in Computational & Mathematical Engineering at Stanford University.
 
 
 <br />
