@@ -13,7 +13,7 @@ I am now pursuing a Ph.D. in Computational & Mathematical Engineering at Stanfor
 
 
 <br />
-Previously, I was a research intern at <a href="https://europe.naverlabs.com/about/" target="_blank">Naver Labs Europe</a> and was lucky to collaborate with
+Previously, I was a research intern at <a href="https://europe.naverlabs.com/about/" target="_blank">Naver Labs Europe</a> and was collaborating with
 <a href="https://scholar.google.fr/citations?user=bTXN9_0AAAAJ&hl=en&oi=ao" target="_blank">Dr. Marc Dymetman</a>.
 
 
